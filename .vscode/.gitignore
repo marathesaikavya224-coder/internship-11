@@ -1,0 +1,14 @@
+
+# Compiled programs
+*.exe
+*.out
+
+# Personal student data
+profile.txt
+dsa.txt
+tasks.txt
+plan.txt
+revisions.txt
+
+# IDE settings
+.idea/
