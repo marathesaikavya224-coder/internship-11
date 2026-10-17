@@ -36,3 +36,21 @@ planner.exe
 
 ## Author
 Kavya Marathe
+
+
+## Version Control Workflow
+
+This project uses Git for version control.
+
+- `master`: Main project branch.
+- `feature/project-documentation`: Branch for documentation improvements.
+- Commits are used to track meaningful project changes.
+
+### Example Git Commands
+
+```bash
+git status
+git add .
+git commit -m "Describe your change"
+git log --oneline
+```
